@@ -1,4 +1,4 @@
-package com.bmcho.SpringSecurityPractice;
+package com.bmcho.springsecuritypractice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
