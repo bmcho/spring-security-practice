@@ -1,13 +1,13 @@
-package com.bmcho.springsecuritypractice;
+package com.bmcho.SpringSecurityPractice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringsecuritypracticeApplication {
+public class SpringSecurityPracticeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringsecuritypracticeApplication.class, args);
+		SpringApplication.run(SpringSecurityPracticeApplication.class, args);
 	}
 
 }
